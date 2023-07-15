@@ -1,4 +1,4 @@
 package com.example.historyview;
 
-public class TestingClass {
+public class higherClass {
 }
