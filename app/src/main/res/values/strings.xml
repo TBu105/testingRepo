@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HistoryView</string>
+    <string-array name="lost_money_txt">
+        <item>-100.000</item>
+        <item>-100.000</item>
+        <item>-100.000</item>
+        <item>-100.000</item>
+        <item>-100.000</item>
+    </string-array>
+    <string-array name="jam_name_txt">
+        <item>Hũ thiết yếu</item>
+        <item>Hũ thiết yếu</item>
+        <item>Hũ thiết yếu</item>
+        <item>Hũ thiết yếu</item>
+        <item>Hũ thiết yếu</item>
+    </string-array>
+    <string-array name="minute_ago_txt">
+        <item>date</item>
+        <item>date</item>
+        <item>date</item>
+        <item>date</item>
+        <item>date</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
